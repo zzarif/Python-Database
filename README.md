@@ -5,7 +5,8 @@ A complete beginner's guide to Python for Data Science.
 Start with the [basics](basics) of Python. Please refer to "A Crash Course in Python" chapter from **Data Science from Scratch** book by **Joel Grus**.
 
 ## Practice
-- After reviewing the basics, start practicing from **Hackerrank**. Most of the solutions to [this](https://www.hackerrank.com/domains/python) domain can be found [here](hackerrank).
+After you're done reviewing the basics:
+- Start practicing from **Hackerrank**. Most of the solutions to [this](https://www.hackerrank.com/domains/python) domain can be found [here](hackerrank).
 - Also try to solve **Leetcode** top interview questions using Python. Please refer to [this](leetcode) directory.
 
 ## PyTorch
